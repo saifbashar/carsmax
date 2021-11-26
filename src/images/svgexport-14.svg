@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="img customize" width="71"  height="68" ><defs><symbol viewBox="0 0 71 68" id="icon-customize"> <g transform="translate(558.000000, 546.000000)"> <g> <path fill="none" stroke="#009CDE" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="
+			M-550.194-479.115c-3.743,0-6.806-3.1-6.806-6.887v-47.026c0-3.788,3.062-6.887,6.806-6.887h54.62c3.743,0,6.806,3.1,6.806,6.887
+			v47.026c0,3.787-3.062,6.887-6.806,6.887H-550.194z" stroke-opacity="0.5"></path> <path fill="none" stroke="#009CDE" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M-557-523
+			h68.231" stroke-opacity="0.5"></path> <path fill="none" stroke="#009CDE" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M-507-545
+			v10.255" stroke-opacity="0.5"></path> <path fill="none" stroke="#009CDE" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" d="M-539-545
+			v10.255" stroke-opacity="0.5"></path> </g> <polyline fill="none" stroke="#7ED321" stroke-width="2.5px" stroke-linecap="round" stroke-linejoin="round" points="
+		-535,-500.233 -525.853,-491.502 -508.527,-509 	"></polyline> </g> </symbol></defs>
+<use xlink:href="#icon-customize"></use>
+</svg>

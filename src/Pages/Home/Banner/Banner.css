@@ -1,0 +1,10 @@
+.banner {
+  background: url('https://www.wallpapertip.com/wmimgs/84-849715_mercedes-gle-coupe-hd.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
