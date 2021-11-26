@@ -14,7 +14,7 @@ Live site link: [CarMax](https://carsmax-saifbashar.web.app/)
 - After placing the order you can see your order status pending after approved your order by admin order status changed to Shipped
 - Login system are email and password based .
 - From this website, Admin can see all booking information and confirm the pending the order.
-- For Testing purpose admin: admin@admin.com password: 123456
+- For Testing purpose admin: admin@carsmax.com password: 123456
 
 ## Project Status
 
